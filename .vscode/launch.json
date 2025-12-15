@@ -9,15 +9,8 @@
             "name": "App",
             "request": "launch",
             "mainClass": "App",
-            "projectName": "BoardGamesFx_80880ff2"
-        },
-        {
-            "type": "java",
-            "name": "App",
-            "request": "launch",
-            "mainClass": "App",
-            "projectName": "BoardGamesFx_4a48081f",
-            "vmArgs": "--module-path \"C:/Users/nbarsch/Downloads/openjfx-21.0.9_windows-x64_bin-sdk/javafx-sdk-21.0.9/lib\" --add-modules javafx.controls,javafx.fxml"
+            "projectName": "BoardGames_3e11b7ca",
+            "vmArgs": "--module-path C:/Users/nbarsch/Downloads/openjfx-21.0.9_windows-x64_bin-sdk/javafx-sdk-21.0.9/lib --add-modules javafx.controls,javafx.fxml"
         }
     ]
 }
